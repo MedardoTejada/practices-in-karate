@@ -1,0 +1,99 @@
+23:04:41.009 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:04:42.069 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.144 [main] INFO  com.intuit.karate - request:  {
+  "usuario": "+50764210000",
+  "password": "Test1234*",
+  "tipoCliente": 1
+}
+ 
+23:04:42.150 [main] INFO  com.intuit.karate - response:  {
+  "status": 200,
+  "description": "usuario afiliado"
+}
+ 
+23:04:42.158 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.161 [main] INFO  com.intuit.karate - request:  {
+  "usuario": "+50764210001",
+  "password": "Test1234*",
+  "tipoCliente": 2
+}
+ 
+23:04:42.161 [main] INFO  com.intuit.karate - response:  {
+  "status": 200,
+  "description": "usuario afiliado"
+}
+ 
+23:04:42.169 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.172 [main] INFO  com.intuit.karate - request:  {
+  "usuario": "+50764210002",
+  "password": "Test1234*",
+  "tipoCliente": 3
+}
+ 
+23:04:42.172 [main] INFO  com.intuit.karate - response:  {
+  "status": 200,
+  "description": "usuario afiliado"
+}
+ 
+23:04:42.179 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.183 [main] INFO  com.intuit.karate - request:  {
+  "usuario": "+50764210003",
+  "password": "Test1234*",
+  "tipoCliente": 4
+}
+ 
+23:04:42.184 [main] INFO  com.intuit.karate - response:  {
+  "status": 200,
+  "description": "usuario afiliado"
+}
+ 
+23:04:42.191 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.205 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.208 [main] INFO  com.intuit.karate - request:  {
+  "usuario": 50764210000,
+  "password": "Test1234*",
+  "tipoCliente": 1
+}
+ 
+23:04:42.208 [main] INFO  com.intuit.karate - response:  {
+  "status": 200,
+  "description": "usuario afiliado"
+}
+ 
+23:04:42.214 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.216 [main] INFO  com.intuit.karate - request:  {
+  "usuario": 50764210001,
+  "password": "Test1234*",
+  "tipoCliente": 2
+}
+ 
+23:04:42.216 [main] INFO  com.intuit.karate - response:  {
+  "status": 200,
+  "description": "usuario afiliado"
+}
+ 
+23:04:42.223 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.225 [main] INFO  com.intuit.karate - request:  {
+  "usuario": 50764210002,
+  "password": "Test1234*",
+  "tipoCliente": 3
+}
+ 
+23:04:42.226 [main] INFO  com.intuit.karate - response:  {
+  "status": 200,
+  "description": "usuario afiliado"
+}
+ 
+23:04:42.232 [main] INFO  com.intuit.karate - karate.env system property was: null 
+23:04:42.234 [main] INFO  com.intuit.karate - request:  {
+  "usuario": 50764210003,
+  "password": "Test1234*",
+  "tipoCliente": 4
+}
+ 
+23:04:42.234 [main] INFO  com.intuit.karate - response:  {
+  "status": 200,
+  "description": "usuario afiliado"
+}
+ 
+23:04:42.787 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/chapterTestContainer/testScenarioOutline/testScenarioOutline.feature
