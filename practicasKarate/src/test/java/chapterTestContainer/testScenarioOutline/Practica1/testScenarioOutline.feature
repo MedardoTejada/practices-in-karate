@@ -1,7 +1,7 @@
 Feature: Scenarios outline
 
   Background:
-    * json dataTest = read('classpath:chapterTestContainer/testScenarioOutline/dataTest.json')
+    * json dataTest = read('classpath:chapterTestContainer/testScenarioOutline/Practica1/dataTest.json')
 
   Scenario Outline: No-JsonFile Afiliar Cliente<TipoCliente>
   DADO un cliente joven
