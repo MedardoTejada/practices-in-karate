@@ -20,11 +20,11 @@
 
   "sc02": {
     "phone": "+50764210000",
-    "password": "Test1234*"
+    "password": ""
   },
 
   "sc03": {
-    "phone": "+50764210000",
+    "phone": "",
     "password": "Test1234*"
   }
 }

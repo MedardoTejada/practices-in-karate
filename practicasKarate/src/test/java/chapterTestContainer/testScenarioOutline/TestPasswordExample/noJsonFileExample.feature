@@ -2,6 +2,7 @@ Feature: Scenarios outline
 
   Background:
 
+    @sc01
   Scenario Outline: Registro de usuario en yappy <phone>
     DADO un usuario en la pagina de registro
     CUANDO especifica los datos necesarios para afiliacion
