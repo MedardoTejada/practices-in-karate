@@ -1,6 +1,7 @@
 Feature: Scenarios outline
 
   Background:
+    * json dataTest = read('classpath:chapterTestContainer/testScenarioOutline/TestPasswordExample/dataTest.json')
 
     @sc01
   Scenario Outline: Registro de usuario en yappy <phone>
@@ -16,8 +17,4 @@ Feature: Scenarios outline
     Then print exampleResponse
 
     Examples:
-      |phone        |password   |
-      |+50764210000 |Test1234*  |
-      |+50764210001 |Test1234@  |
-      |+50764210002 |Test1234=  |
-      |+50764210003 |Test1234-  |
+      | dataTest.sc01 |

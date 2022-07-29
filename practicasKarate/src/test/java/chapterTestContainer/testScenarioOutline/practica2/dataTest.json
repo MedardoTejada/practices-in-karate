@@ -1,0 +1,48 @@
+{
+  "sc02":[
+    {
+      "TipoCliente": "Joven"
+    },
+    {
+      "TipoCliente": "Personal"
+    },
+    {
+      "TipoCliente": "Comercial"
+    },
+    {
+      "TipoCliente": "Comercial tipo grupo"
+    }
+  ],
+
+
+  "sc03":[
+    [
+      {
+        "TipoCliente": "Joven-0"
+      },
+      {
+        "TipoCliente": "Personal-0"
+      },
+      {
+        "TipoCliente": "Comercial-0"
+      },
+      {
+        "TipoCliente": "Comercial tipo grupo-0"
+      }
+    ],
+    [
+      {
+        "TipoCliente": "Joven-1"
+      },
+      {
+        "TipoCliente": "Personal-1"
+      },
+      {
+        "TipoCliente": "Comercial-1"
+      },
+      {
+        "TipoCliente": "Comercial tipo grupo-1"
+      }
+    ]
+  ]
+}
