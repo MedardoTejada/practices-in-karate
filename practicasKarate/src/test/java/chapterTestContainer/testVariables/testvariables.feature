@@ -17,12 +17,12 @@ Feature: test de variables
       * string varIntegerParseado = { bar: '#(parseInt(foo))' }
       * karate.log ("string parseado a integer: " + varIntegerParseado)
 
-  Scenario: escenario 02 de variables - controlando el parse
-    * def foo = 1
+  #Scenario: escenario 02 de variables - controlando el parse
+    #* def foo = 1
 
     # es un integer?
-    * json isInteger = foo == (#number) ? "Parseamos " : foo
-    * print isInteger
+   # * json isInteger = foo == (#number) ? "Parseamos " : foo
+   # * print isInteger
     #* string varIntegerParseado = { bar: '#(parseInt(foo))' }
     #* karate.log ("string parseado a integer: " + varIntegerParseado)
 #repo de scrip, encuentro el sp que manda
